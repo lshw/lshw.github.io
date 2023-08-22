@@ -3,3 +3,4 @@ bc8491fc2ebd22ea3cb8469ba73a07e5  wifi_disp_1.68_20221128-b8a3fa75.tar.xz
 c727a867bb56244ce897b0243f8d7fba  wifi_disp_1.76_20230814-0b27812c.tar.xz
 ae109cb88ebba1116a0558bb21d014ec  socat-1.7.3.0-windows.zip
 3aae5b6fad5d1ab2071c2d2a5ab194ed  wifi_disp_1.78_20230821-2ae423c0.tar.gz
+ff13642bb6203d5884eaa1b2b3bfecf4  wifi_disp_1.78_20230822-8008cd8a.tar.xz
