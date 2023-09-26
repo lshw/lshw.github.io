@@ -1,0 +1,2 @@
+1df7f0c63c93310b5162bd420fff30f2  proc_wifi_1.68.bin
+7d37d70b8a5f5e2b2f83ce1c5ff14004  proc_wifi_1.69_20230926-c753543d.tar.gz
